@@ -7,6 +7,9 @@ using System.Threading.Tasks;
  * Author : Christopher Ritchil
  * Student Number : 300702644
  * Description : This program demostrate dealing with card decks
+ * Date created: Jun 07, 2016
+ * Date modified: Jun 10, 2016
+ * Version: 0.1.0
  */
 namespace COMP123_Lab3
 {
